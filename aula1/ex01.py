@@ -15,3 +15,5 @@ num2 = int(input('Digite o segundo numero: '))
 print(num1+num2)
 # ou usar variavel
 #resultado = num1 +num2    
+#somente teste
+
